@@ -1,6 +1,6 @@
 # WiiCoverManagerRelease
 
-![image]()
+![image](https://github.com/wei134102/WiiCoverManagerRelease/blob/main/%E4%B8%BB%E7%95%8C%E9%9D%A2.PNG)
 
 
 由于本人在本地收集和制作了一些封面，用于游戏管理，但是wiibackupmanger的本地缓存策略不支持下面的封面结构，
